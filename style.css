@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+.body {
+    color:#000;
+}
+* {
+    font-family: 'Comfortaa', sans-serif  
+}
+.main-back {
+    width: 905px;
+    height: 1010px;
+    background:#fff;
+    position: relative;   
+    margin:auto auto;
+    top:-20px;
+}
+.body {
+    background:#800000 ;
+}
+@media (max-width:650px) {
+*{
+    font-size: small;
+}
+}
+.header3 {
+    border-left: 8px solid #fff;
+    border-bottom: 8px solid #fff;
+    background: #D2B48C;
+    padding-left: 10px;
+    position:absolute;
+    top:216px;
+    width:98%;
+    margin-top: 5px;
+    padding-bottom:10px;
+    list-style: none
+}
+.header4 {
+    border-left: 8px solid #fff;
+    border-bottom: 8px solid #fff;
+    background: #D2B48C;
+    padding-left: 10px;
+    position:absolute;
+    top:439px;
+    width:98%;
+    margin-top: 5px;
+    padding-bottom:10px;
+    list-style: none
+}
+.header5 {
+    border-left: 8px solid #fff;
+    border-bottom: 8px solid #fff;
+    background: #D2B48C;
+    padding-left: 10px;
+    position:absolute;
+    top:824px;
+    width:98%;
+    margin-top: 5px;
+    padding-bottom:10px;
+    list-style: none
+}
+
+
+
+.ul li {
+    padding: 10px;
+    list-style: none;
+    border-bottom: 3px solid #000;
+    width:300px
+}
+.ul {
+    padding-left:10px
+}
+.row {
+    padding:0;
+    margin: 0;
+    
+}
+
+.row li {
+    list-style: none;
+    display: inline-block;
+    border:1px solid #000;
+    padding: 20px;
+    width: 250px ;
+    margin-left: -5px
+}
+
+
+.header1 {
+    border-left: 8px solid #fff;
+    border-bottom: 8px solid #fff;
+    background: #D2B48C;
+    padding-left: 10px;
+    padding-bottom:10px;
+    position:absolute;
+    width:650px;
+    top:0px;
+    left:218px;
+    padding-right: 19px;
+    padding-bottom:0px;
+    padding-top:0px;
+}
+.header2 {
+    border-left: 8px solid #fff;
+    border-bottom: 8px solid #fff;
+    background: #D2B48C;
+    padding-left: 10px;
+    padding-bottom:23px;
+    position:absolute;
+    max-width:160px;
+    top:107px;
+    left:218px;
+    padding-top:0px;
+    padding-right: 510px;
+}
+.vk {
+    color: #000;
+    text-decoration: none;
+}
+.vk:hover {
+    color: #2F4F4F
+}
+.vk:visited {
+    color:blueviolet
+
+}
+.img1 {
+    width:200px;
+    height: 200px;
+    border: 5px solid #D2B48C
+}
+.img2 {
+    width:210px;
+    height: 210px;
+    border: 5px solid #fff
+}
+.img-main {
+    position:absolute;
+    left:3px;
+    top:0
+}
+.button {
+    background:#fff
+}
